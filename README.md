@@ -1,6 +1,6 @@
 # Taksify Frontend with VUE
 
-> A Simple Single Page Application Using Vue.js 2.
+> A Simple Single Page Application Using Vue.js 2.Taksify application was developed as Agile Software Development course project at University of Tartu. Frontend was implemented using VueJs.
 
 ## Build Setup
 
